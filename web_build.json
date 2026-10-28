@@ -1,0 +1,73 @@
+{
+ "session": 362,
+ "title": "The tofu pass: off the fence, and it doesn't spend a heart",
+ "built": "2026-10-28T18:20:57Z",
+ "boot": "4bb9079b74b0649cb8e2ee93eef28eb5",
+ "boot_bytes": 869184,
+ "boot_gz_bytes": 778902,
+ "bake": "89911942e578babf2ee3796effed1168",
+ "bake_bytes": 13565028,
+ "bake_gz_bytes": 12401992,
+ "music": {
+  "bursting_top": {
+   "sig": "f7b449d9a1fad3f6af267b82745bd308",
+   "bytes": 485284,
+   "gz_bytes": 389869
+  },
+  "clawing_teddy": {
+   "sig": "203c5e84791e436fe5159ddb65a65f73",
+   "bytes": 3548220,
+   "gz_bytes": 407683
+  },
+  "climbing_pistol": {
+   "sig": "e0bca7df01c7c115521bc6bf2a79a744",
+   "bytes": 972676,
+   "gz_bytes": 586736
+  },
+  "counting_zoo": {
+   "sig": "249b63d81ad1e318e44737d1b1b87ae2",
+   "bytes": 3637018,
+   "gz_bytes": 2708688
+  },
+  "dancing_lion": {
+   "sig": "4cb7b8b909c335457f30ea8fcab1c1d8",
+   "bytes": 7840790,
+   "gz_bytes": 5252894
+  },
+  "drifting_tofu": {
+   "sig": "dbf6bbe4aa9bad4d46c7ac0c0c019af4",
+   "bytes": 2334000,
+   "gz_bytes": 1484174
+  },
+  "menu": {
+   "sig": "0ba841095ce24fe4cd9e07ce3a2fbd2e",
+   "bytes": 6719562,
+   "gz_bytes": 5347631
+  },
+  "parry_samurai": {
+   "sig": "87b718572209680cf6c01d4606c53f5f",
+   "bytes": 6520456,
+   "gz_bytes": 3228983
+  },
+  "puzzling_pawn": {
+   "sig": "f5fb01a0415361fe4e1a8c09dac64bbe",
+   "bytes": 2741684,
+   "gz_bytes": 1330183
+  },
+  "shared": {
+   "sig": "163d2a0e7e849e15a3086bf33419a609",
+   "bytes": 13321652,
+   "gz_bytes": 10091515
+  },
+  "smashing_shuttle": {
+   "sig": "70ce760f1d53c63ae7d13186a15b33e1",
+   "bytes": 597776,
+   "gz_bytes": 499990
+  },
+  "surviving_scout": {
+   "sig": "be6be3c87c016989d290d71396d178d9",
+   "bytes": 8389904,
+   "gz_bytes": 6484729
+  }
+ }
+}
