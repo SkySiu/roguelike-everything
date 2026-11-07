@@ -1,0 +1,78 @@
+{
+ "session": 403,
+ "title": "The website, brought up to session 401",
+ "built": "2026-11-07T15:17:37Z",
+ "boot": "bfb2255fed8213147fae78bcee23bec4",
+ "boot_bytes": 876328,
+ "boot_gz_bytes": 785176,
+ "bake": "cd6127c6415936a1cf0b0e95fd49a5ee",
+ "bake_bytes": 15486196,
+ "bake_gz_bytes": 14150026,
+ "music": {
+  "bursting_top": {
+   "sig": "19e59020ee15d8a8986584d3edd50e08",
+   "bytes": 313246,
+   "gz_bytes": 250087
+  },
+  "clawing_teddy": {
+   "sig": "f8d4a09656614fd126e2dff983638d8e",
+   "bytes": 696212,
+   "gz_bytes": 94889
+  },
+  "climbing_pistol": {
+   "sig": "e0bca7df01c7c115521bc6bf2a79a744",
+   "bytes": 972676,
+   "gz_bytes": 586736
+  },
+  "counting_zoo": {
+   "sig": "b46af94456a107af81e89987f549da26",
+   "bytes": 3537770,
+   "gz_bytes": 2628984
+  },
+  "dancing_lion": {
+   "sig": "5fd3994c625e5b16ce12a1467aa7c71b",
+   "bytes": 13928790,
+   "gz_bytes": 8962554
+  },
+  "dodging_rocket": {
+   "sig": "9e09fd1b13d26c48a3472dea479e6f19",
+   "bytes": 244864,
+   "gz_bytes": 206038
+  },
+  "drifting_tofu": {
+   "sig": "11e6c7c3d3bdbd112d112a43f00b90a6",
+   "bytes": 1522372,
+   "gz_bytes": 985863
+  },
+  "menu": {
+   "sig": "fbdc619ceabd943b5dd1efe8679e69b4",
+   "bytes": 9878830,
+   "gz_bytes": 7502254
+  },
+  "parry_samurai": {
+   "sig": "87b718572209680cf6c01d4606c53f5f",
+   "bytes": 6520456,
+   "gz_bytes": 3228983
+  },
+  "puzzling_pawn": {
+   "sig": "780dc0397656d338b10e44adea96bd24",
+   "bytes": 2543178,
+   "gz_bytes": 1161960
+  },
+  "shared": {
+   "sig": "1d203714986bf1c5579327fda4363024",
+   "bytes": 15861772,
+   "gz_bytes": 10195760
+  },
+  "smashing_shuttle": {
+   "sig": "8dd15b0113e6d603b786c9dd51db1086",
+   "bytes": 300020,
+   "gz_bytes": 245112
+  },
+  "surviving_scout": {
+   "sig": "9ab8949b7ed34beaa30717e0f07a9bd4",
+   "bytes": 8173760,
+   "gz_bytes": 6431273
+  }
+ }
+}
