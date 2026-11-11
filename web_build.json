@@ -1,0 +1,78 @@
+{
+ "session": 429,
+ "title": "Baby mode in a friend match",
+ "built": "2026-11-11T08:30:18Z",
+ "boot": "13be509a4d55447066df501194a6868f",
+ "boot_bytes": 876352,
+ "boot_gz_bytes": 785200,
+ "bake": "7c49f8c629506c6544b1154b4269ee9b",
+ "bake_bytes": 15709136,
+ "bake_gz_bytes": 14359634,
+ "music": {
+  "bursting_top": {
+   "sig": "a54195bc48654a33446d029b52f94cbc",
+   "bytes": 313246,
+   "gz_bytes": 250209
+  },
+  "clawing_teddy": {
+   "sig": "f8d4a09656614fd126e2dff983638d8e",
+   "bytes": 696212,
+   "gz_bytes": 94889
+  },
+  "climbing_pistol": {
+   "sig": "e0bca7df01c7c115521bc6bf2a79a744",
+   "bytes": 972676,
+   "gz_bytes": 586736
+  },
+  "counting_zoo": {
+   "sig": "b46af94456a107af81e89987f549da26",
+   "bytes": 3537770,
+   "gz_bytes": 2628984
+  },
+  "dancing_lion": {
+   "sig": "5fd3994c625e5b16ce12a1467aa7c71b",
+   "bytes": 13928790,
+   "gz_bytes": 8962554
+  },
+  "dodging_rocket": {
+   "sig": "9e09fd1b13d26c48a3472dea479e6f19",
+   "bytes": 244864,
+   "gz_bytes": 206038
+  },
+  "drifting_tofu": {
+   "sig": "0e235db80db1ba567d3e902c44ee54fb",
+   "bytes": 1522370,
+   "gz_bytes": 985849
+  },
+  "menu": {
+   "sig": "fbdc619ceabd943b5dd1efe8679e69b4",
+   "bytes": 9878830,
+   "gz_bytes": 7502254
+  },
+  "parry_samurai": {
+   "sig": "2bf12c0b80dbdd9252b6a2a5c365e550",
+   "bytes": 6520450,
+   "gz_bytes": 3230026
+  },
+  "puzzling_pawn": {
+   "sig": "780dc0397656d338b10e44adea96bd24",
+   "bytes": 2543178,
+   "gz_bytes": 1161960
+  },
+  "shared": {
+   "sig": "058a7c39671a0944d914ba60c3e7541b",
+   "bytes": 15861768,
+   "gz_bytes": 10195657
+  },
+  "smashing_shuttle": {
+   "sig": "8dd15b0113e6d603b786c9dd51db1086",
+   "bytes": 300020,
+   "gz_bytes": 245112
+  },
+  "surviving_scout": {
+   "sig": "667a50c1e871cfae8aee590774b5b0bc",
+   "bytes": 8173760,
+   "gz_bytes": 6431212
+  }
+ }
+}
