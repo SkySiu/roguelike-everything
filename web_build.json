@@ -1,0 +1,73 @@
+{
+ "session": 452,
+ "title": "Full stamina on the debug pill, and the shuttle stays in front of the...",
+ "built": "2026-11-24T23:27:44Z",
+ "boot": "85ba57b301f769a008c2cea9beadf995",
+ "boot_bytes": 872032,
+ "boot_gz_bytes": 781406,
+ "bake": "b64851240fe0661e27df21aaa27a6f77",
+ "bake_bytes": 15013884,
+ "bake_gz_bytes": 13689629,
+ "music": {
+  "bursting_top": {
+   "sig": "a54195bc48654a33446d029b52f94cbc",
+   "bytes": 313246,
+   "gz_bytes": 250209
+  },
+  "clawing_teddy": {
+   "sig": "f8d4a09656614fd126e2dff983638d8e",
+   "bytes": 696212,
+   "gz_bytes": 94889
+  },
+  "climbing_pistol": {
+   "sig": "f87852c6b22f747d947a4e9cc0ad6840",
+   "bytes": 1296890,
+   "gz_bytes": 812503
+  },
+  "counting_zoo": {
+   "sig": "2f707dda018e9062eaee6353a13a6f90",
+   "bytes": 3671000,
+   "gz_bytes": 2733570
+  },
+  "dancing_lion": {
+   "sig": "5fd3994c625e5b16ce12a1467aa7c71b",
+   "bytes": 13928790,
+   "gz_bytes": 8962554
+  },
+  "dodging_rocket": {
+   "sig": "9e09fd1b13d26c48a3472dea479e6f19",
+   "bytes": 244864,
+   "gz_bytes": 206038
+  },
+  "drifting_tofu": {
+   "sig": "0e235db80db1ba567d3e902c44ee54fb",
+   "bytes": 1522370,
+   "gz_bytes": 985849
+  },
+  "menu": {
+   "sig": "fbdc619ceabd943b5dd1efe8679e69b4",
+   "bytes": 9878830,
+   "gz_bytes": 7502254
+  },
+  "parry_samurai": {
+   "sig": "2bf12c0b80dbdd9252b6a2a5c365e550",
+   "bytes": 6520450,
+   "gz_bytes": 3230026
+  },
+  "puzzling_pawn": {
+   "sig": "780dc0397656d338b10e44adea96bd24",
+   "bytes": 2543178,
+   "gz_bytes": 1161960
+  },
+  "shared": {
+   "sig": "efcef8ea1c6e6c680809ef0301ba745a",
+   "bytes": 15404322,
+   "gz_bytes": 9863831
+  },
+  "smashing_shuttle": {
+   "sig": "8dd15b0113e6d603b786c9dd51db1086",
+   "bytes": 300020,
+   "gz_bytes": 245112
+  }
+ }
+}
